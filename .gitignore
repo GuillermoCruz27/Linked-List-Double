@@ -45,7 +45,7 @@
 # *.ipr
 
 # CMake
-TP-Nro1/cmake-build-debug
+TP-Nro2/cmake-build-debug
 .idea/
 
 # Mongo Explorer plugin
